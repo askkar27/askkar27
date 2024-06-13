@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @askkar27
-- 👀 I’m interested in football, chess, running, gym, sci-fi books
-- 🌱 I’m currently learning HTML, CSS
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me askkar27@icloud.com
 - ⚡ Fun fact: ...
